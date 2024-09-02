@@ -8,11 +8,11 @@ import time
 
 
 
-for i in ("Lok Kapoor"):                    # this will print out my name a letter at a time - prints each index
+for i in ("Loka"):                    # this will print out my name a letter at a time - prints each index
     print (i)
 
 for i in range (10):                        # this will print out my name 10 times
-   print ("Lok Kapoor")
+   print ("Loka")
 
 for num in range(0,10,1):                   # this will count from 1 to 10 -- start index is inclusive so 0 will print
   print (num + 1)

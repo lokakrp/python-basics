@@ -6,7 +6,7 @@
 # leaving start blank = 0 , leaving stop blank = max value
 # step will step characters a certain amount, similar to starts i.e step 2 will move 2 characters to the right
 
-name = "ryan kapoor"
+name = "David Beckham"
 
 first_name = name[:4]                  # ends at first name
 last_name = name[5:]                   # starts with last name
