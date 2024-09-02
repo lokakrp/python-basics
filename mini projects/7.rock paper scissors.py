@@ -1,6 +1,6 @@
 import random
 
-# rock paper scissors! 
+# rock paper scissors!                                                                First ever project done with 0 guidances
 
 def jankenpon():
   print("Welcome to Rock Paper Scissors - You will be against NANO!!")
